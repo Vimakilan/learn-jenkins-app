@@ -42,8 +42,8 @@
     "@types/node": "^20.8.6"
   },
   "jest-junit": {
-    "suiteName": "jest tests",
-    "outputDirectory": "junit-results",
+    "suiteName": "vimal tests",
+    "outputDirectory": "vimal-results",
     "outputName": "junit.xml",
     "uniqueOutputName": "false",
     "classNameTemplate": "{classname}-{title}",
